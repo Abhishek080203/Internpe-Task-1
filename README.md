@@ -1,6 +1,6 @@
-#🚀 First Task Completed! 🚀
+🚀 First Task Completed! 🚀
 
-**I'm excited to share that I've completed my first task during my internship at Internpe: building a fully functional calculator using HTML, CSS, and JavaScript!
+I'm excited to share that I've completed my first task during my internship at Internpe: building a fully functional calculator using HTML, CSS, and JavaScript!
 
 #This project allowed me to:
 
