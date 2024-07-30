@@ -1,8 +1,8 @@
-##🚀 First Task Completed! 🚀
+#🚀 First Task Completed! 🚀
 
 **I'm excited to share that I've completed my first task during my internship at Internpe: building a fully functional calculator using HTML, CSS, and JavaScript!
 
-##This project allowed me to:
+#This project allowed me to:
 
 1.Enhance my front-end development skills
 2.Work with HTML to structure the calculator
