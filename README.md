@@ -7,7 +7,7 @@ This project allowed me to:
 1.Enhance my front-end development skills
 <br>
 2.Work with HTML to structure the calculator
-<br.
+<br>
 3.Use CSS to style it and make it look attractive
 <br>
 4.Implement JavaScript for the calculator's functionality
